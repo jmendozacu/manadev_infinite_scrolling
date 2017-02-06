@@ -16,10 +16,6 @@
         "app/code/local/Mana/"
       ],
       [
-        "app/design/adminhtml/base/default/template/*",
-        "app/design/adminhtml/base/default/template/"
-      ],
-      [
         "app/design/adminhtml/default/default/layout/*",
         "app/design/adminhtml/default/default/layout/"
       ],
